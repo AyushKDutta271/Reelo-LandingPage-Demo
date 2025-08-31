@@ -73,6 +73,7 @@ button{
 }
 
 .Sec-HeaderContent{
+    border: 2px solid black;
     margin-top:43px;
     margin-bottom: 46px;
     font-size: 25px;
